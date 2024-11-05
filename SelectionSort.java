@@ -1,11 +1,5 @@
 public class SelectionSort {
   SelectionSort() {
-    int[] arr = { 64, 25, 12, 22, 11 };
-    sort(arr);
-    System.out.println("Sorted array:");
-    for (int num : arr) {
-      System.out.print(num + " ");
-    }
   }
 
   // write sort method

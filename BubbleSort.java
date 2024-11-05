@@ -1,6 +1,5 @@
 public class BubbleSort {
   BubbleSort() {
-    System.out.println("Bubble Sort Algorithm");
   }
 
   // Bubble sort algorithm

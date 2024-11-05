@@ -1,6 +1,5 @@
 public class BinarySearch {
   BinarySearch() {
-    System.out.println("Binary Search class created");
   }
 
   public int binarySearch(int[] arr, int target) {
